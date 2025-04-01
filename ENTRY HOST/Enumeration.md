@@ -39,28 +39,7 @@ Visit http://10.200.112.105:8002/.
 
 There's not much here, but a Search field.
 
-### Reflected XSS
-
-Reflected XSS is a type of **Cross-Site Scripting (XSS)** attack where an attacker injects malicious scripts into a web application. The injected script is **reflected** off the web server and executed in the victim's browser.
-
-**How It Works**
-
-1. **Attacker crafts a malicious URL** containing a script.
-2. **Victim clicks the link** (via phishing, comments, etc.).
-3. **Web server reflects the input** without sanitization.
-4. **Victim’s browser executes the script** (stealing cookies, session hijacking, etc.).
+**Next step:** [[Exploitation]]
 
 
-So, insert the following code on the search field.
-
-```
-"><script>alert('1');</script>
-```
-
-After click on the Search button you'll see a pop up window like this:
-
-![[Enumeration-20250325205126744.webp]]
-
->[!Success]
->The pagee is vulnerable to Reflected XSS.
 
