@@ -42,12 +42,15 @@
             "id": "ac1637bf3e15dbd0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Exploitation-20250401202714479.webp"
+                "file": "ENTRY HOST/Enumeration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Exploitation-20250401202714479"
+              "icon": "lucide-file",
+              "title": "Enumeration"
             }
           },
           {
@@ -204,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENTRY HOST/Exploitation.md",
+                "file": "images/Exploitation-20250407192923167.webp",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exploitation"
+              "title": "Outline of Exploitation-20250407192923167"
             }
           },
           {
@@ -254,22 +257,22 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8f282866222ea37e",
+  "active": "d9c4cdafe83e6213",
   "lastOpenFiles": [
-    "images/Exploitation-20250404205827921.webp",
     "ENTRY HOST/Exploitation.md",
+    "images/Exploitation-20250407210325144.webp",
+    "images/Exploitation-20250407200959395.webp",
+    "images/Exploitation-20250407200119964.webp",
+    "ENTRY HOST/Enumeration.md",
+    "images/Exploitation-20250401202714479.webp",
+    "images/Exploitation-20250407193248380.webp",
+    "images/Exploitation-20250407193109035.webp",
+    "images/Exploitation-20250407192923167.webp",
+    "images/Exploitation-20250404205827921.webp",
     "images/Exploitation-20250405115536051.webp",
     "images/Exploitation-20250405115302330.webp",
-    "images/Exploitation-20250405113050702.webp",
-    "images/Exploitation-20250401202714479.webp",
-    "images/Exploitation-20250401205049182.webp",
-    "images/Exploitation-20250401204856844.webp",
-    "images/Exploitation-20250401202952664.webp",
-    "ENTRY HOST/Enumeration.md",
     "Registration.md",
     "Untitled.md",
-    "images/Enumeration-20250324202944585.webp",
-    "images/Enumeration-20250325205126744.webp",
     "index.md",
     "ENTRY HOST",
     "Welcome.md",
