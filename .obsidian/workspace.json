@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Exploitation-20250407192923167.webp",
+                "file": "images/Exploitation-20250408195208723.webp",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exploitation-20250407192923167"
+              "title": "Outline of Exploitation-20250408195208723"
             }
           },
           {
@@ -260,17 +260,18 @@
   "active": "d9c4cdafe83e6213",
   "lastOpenFiles": [
     "ENTRY HOST/Exploitation.md",
+    "images/Exploitation-20250408204051992.webp",
+    "images/Exploitation-20250408200503817.webp",
+    "images/Exploitation-20250408200451956.webp",
+    "images/Exploitation-20250408200051691.webp",
+    "images/Exploitation-20250408195432891.webp",
+    "qipc_systemsem_serverinfoiccaeaa6fb708e16b3efbb3a282f798a1b2b457011a6e33",
+    "images/Exploitation-20250408195208723.webp",
+    "images/Exploitation-20250407192923167.webp",
     "images/Exploitation-20250407210325144.webp",
     "images/Exploitation-20250407200959395.webp",
     "images/Exploitation-20250407200119964.webp",
     "ENTRY HOST/Enumeration.md",
-    "images/Exploitation-20250401202714479.webp",
-    "images/Exploitation-20250407193248380.webp",
-    "images/Exploitation-20250407193109035.webp",
-    "images/Exploitation-20250407192923167.webp",
-    "images/Exploitation-20250404205827921.webp",
-    "images/Exploitation-20250405115536051.webp",
-    "images/Exploitation-20250405115302330.webp",
     "Registration.md",
     "Untitled.md",
     "index.md",
