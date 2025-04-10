@@ -67,9 +67,21 @@
               "icon": "lucide-file",
               "title": "Exploitation"
             }
+          },
+          {
+            "id": "77a786fafc7c30a0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Exploitation-20250409193859053.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Exploitation-20250409193859053"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "9cd6831357041279",
@@ -207,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Exploitation-20250408195208723.webp",
+                "file": "images/Exploitation-20250409193859053.webp",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exploitation-20250408195208723"
+              "title": "Outline of Exploitation-20250409193859053"
             }
           },
           {
@@ -260,17 +272,17 @@
   "active": "d9c4cdafe83e6213",
   "lastOpenFiles": [
     "ENTRY HOST/Exploitation.md",
-    "images/Exploitation-20250408204051992.webp",
-    "images/Exploitation-20250408200503817.webp",
-    "images/Exploitation-20250408200451956.webp",
-    "images/Exploitation-20250408200051691.webp",
-    "images/Exploitation-20250408195432891.webp",
-    "qipc_systemsem_serverinfoiccaeaa6fb708e16b3efbb3a282f798a1b2b457011a6e33",
+    "images/Exploitation-20250410214726331.webp",
+    "images/Exploitation-20250410214234870.webp",
+    "images/Exploitation-20250410213700215.webp",
+    "images/Exploitation-20250410213237338.webp",
+    "images/Exploitation-20250410210118564.webp",
+    "images/Exploitation-20250409200109475.webp",
+    "images/Exploitation-20250409195535327.webp",
+    "images/Exploitation-20250409194650411.webp",
+    "images/Exploitation-20250409193859053.webp",
     "images/Exploitation-20250408195208723.webp",
-    "images/Exploitation-20250407192923167.webp",
-    "images/Exploitation-20250407210325144.webp",
-    "images/Exploitation-20250407200959395.webp",
-    "images/Exploitation-20250407200119964.webp",
+    "qipc_systemsem_serverinfoiccaeaa6fb708e16b3efbb3a282f798a1b2b457011a6e33",
     "ENTRY HOST/Enumeration.md",
     "Registration.md",
     "Untitled.md",
