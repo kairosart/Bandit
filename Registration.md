@@ -23,3 +23,4 @@ ssh register@10.200.112.250
 >Thank you for registering, please take note of the following details. Your entry host for this challenge is 10.200.112.105.
 Please add the challenge IP to your /etc/hosts resolving with the hostname bandit.escape .
 
+![[Diagram.svg]]

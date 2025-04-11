@@ -44,13 +44,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENTRY HOST/Enumeration.md",
+                "file": "Registration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration"
+              "title": "Registration"
             }
           },
           {
@@ -69,19 +69,22 @@
             }
           },
           {
-            "id": "77a786fafc7c30a0",
+            "id": "2f8839eff1340ab9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Exploitation-20250409193859053.webp"
+                "file": "ENTRY HOST/Privilege Escalation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Exploitation-20250409193859053"
+              "icon": "lucide-file",
+              "title": "Privilege Escalation"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "9cd6831357041279",
@@ -219,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Exploitation-20250409193859053.webp",
+                "file": "Registration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exploitation-20250409193859053"
+              "title": "Outline of Registration"
             }
           },
           {
@@ -271,7 +274,15 @@
   },
   "active": "d9c4cdafe83e6213",
   "lastOpenFiles": [
+    "images/Privilege Escalation-20250411201844847.webp",
+    "Diagram.svg",
+    "Registration.md",
+    "Diagram.svg.xml",
+    "index.md",
+    "ENTRY HOST/Enumeration.md",
+    "ENTRY HOST/Privilege Escalation.md",
     "ENTRY HOST/Exploitation.md",
+    "images/Exploitation-20250409193859053.webp",
     "images/Exploitation-20250410214726331.webp",
     "images/Exploitation-20250410214234870.webp",
     "images/Exploitation-20250410213700215.webp",
@@ -279,14 +290,8 @@
     "images/Exploitation-20250410210118564.webp",
     "images/Exploitation-20250409200109475.webp",
     "images/Exploitation-20250409195535327.webp",
-    "images/Exploitation-20250409194650411.webp",
-    "images/Exploitation-20250409193859053.webp",
-    "images/Exploitation-20250408195208723.webp",
     "qipc_systemsem_serverinfoiccaeaa6fb708e16b3efbb3a282f798a1b2b457011a6e33",
-    "ENTRY HOST/Enumeration.md",
-    "Registration.md",
     "Untitled.md",
-    "index.md",
     "ENTRY HOST",
     "Welcome.md",
     "images",
@@ -297,7 +302,6 @@
     "home/emi/Documents/obsidian/CICD",
     "home/emi/Documents/obsidian",
     "home/emi/Documents",
-    "home/emi",
-    "home"
+    "home/emi"
   ]
 }
