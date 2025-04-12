@@ -1,6 +1,8 @@
 ### SSH connection
 
-Connect via SSH with the credentials you found.
+Connect via SSH with the following credentials you found earlier.
+
+`safeadmin: HardcodedMeansUnguessableRight`
 
 ```
 ssh safeadmin@bandit.escape
