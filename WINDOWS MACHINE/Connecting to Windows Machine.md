@@ -114,7 +114,7 @@ $ClearPassword = "Passw0rd"
 
 $SecurePass = ConvertTo-SecureString $ClearPassword -AsPlainText -Force
 
-$credential = New-Object System.Management.Automation.PSCredential("HelpDesk@safeuser", $SecurePass)
+$credential = New-Object System.Management.Automation.PSCredential("safeuserHelpDesk", $SecurePass)
 
 Enter-PSSession -ComputerName bandit.corp -Credential $credential -ConfigurationName testHelpDesksafe -Authentication Negotiate
 ```
@@ -122,4 +122,11 @@ Enter-PSSession -ComputerName bandit.corp -Credential $credential -Configuration
 ## PowerShell session
 
 #Reverse_shell 
-Run pwsh
+1. Run pwsh.
+2. Run one after another the previous commands.
+
+	![[Connecting to Windows Machine-20250413193019825.webp]]
+
+>[!Success]
+>You have a connection with the Windows machine.
+

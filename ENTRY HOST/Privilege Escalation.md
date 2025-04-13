@@ -24,11 +24,13 @@ id
 >[!Success]
 >You are part of the sudo group which gives automatic root access.
 
-## Flag
+## Flag 1
 
 If you list the files, you'll find the flag.txt file.
 
-The flag is: 
+>[!Success]
+>The flag is: THM{ALL_THIS_ESCAPING_MAKES_ME_TIRED_AM_I_DONE?}
 
-THM{ALL_THIS_ESCAPING_MAKES_ME_TIRED_AM_I_DONE?}
 
+
+**Next step:** [[Connecting to Windows Machine]]

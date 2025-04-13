@@ -24,21 +24,6 @@
             }
           },
           {
-            "id": "74e31dbd90fa8d4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Registration.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Registration"
-            }
-          },
-          {
             "id": "ac1637bf3e15dbd0",
             "type": "leaf",
             "state": {
@@ -97,9 +82,39 @@
               "icon": "lucide-file",
               "title": "Connecting to Windows Machine"
             }
+          },
+          {
+            "id": "b4ead9e8deb4abc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WINDOWS MACHINE/Privilege Escalation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Privilege Escalation"
+            }
+          },
+          {
+            "id": "ed36c1031bd1eafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "9cd6831357041279",
@@ -237,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WINDOWS MACHINE/Connecting to Windows Machine.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Connecting to Windows Machine"
+              "title": "Outline of index"
             }
           },
           {
@@ -287,27 +302,27 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d9c4cdafe83e6213",
+  "active": "ed36c1031bd1eafd",
   "lastOpenFiles": [
+    "images/Privilege Escalation-20250413193701775.webp",
+    "index.md",
+    "images/Diagram.svg",
+    "Registration.md",
+    "WINDOWS MACHINE/Privilege Escalation.md",
+    "ENTRY HOST/Privilege Escalation.md",
+    "images/Privilege Escalation-20250413205504091.webp",
+    "images/Privilege Escalation-20250413195827661.webp",
+    "images/Privilege Escalation-20250413195209015.webp",
+    "images/Privilege Escalation-20250413195055851.webp",
+    "images/Privilege Escalation-20250413193958931.webp",
+    "WINDOWS MACHINE/Connecting to Windows Machine.md",
+    "images/Connecting to Windows Machine-20250413193019825.webp",
     "images/Connecting to Windows Machine-20250412204327533.webp",
     "images/Connecting to Windows Machine-20250412204127536.webp",
-    "ENTRY HOST/Privilege Escalation.md",
     "ENTRY HOST/Exploitation.md",
-    "WINDOWS MACHINE/Connecting to Windows Machine.md",
     "WINDOWS MACHINE",
-    "Registration.md",
-    "index.md",
-    "images/Privilege Escalation-20250411201844847.webp",
-    "Diagram.svg",
-    "Diagram.svg.xml",
+    "images/Diagram.svg.xml",
     "ENTRY HOST/Enumeration.md",
-    "images/Exploitation-20250409193859053.webp",
-    "images/Exploitation-20250410214726331.webp",
-    "images/Exploitation-20250410214234870.webp",
-    "images/Exploitation-20250410213700215.webp",
-    "images/Exploitation-20250410213237338.webp",
-    "images/Exploitation-20250410210118564.webp",
-    "images/Exploitation-20250409200109475.webp",
     "qipc_systemsem_serverinfoiccaeaa6fb708e16b3efbb3a282f798a1b2b457011a6e33",
     "Untitled.md",
     "ENTRY HOST",

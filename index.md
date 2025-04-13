@@ -8,6 +8,21 @@ As a subscribed user, if you use the AttackBox for this challenge, you will auto
 
 You are, however, welcome to use your own machine. Should you wish to do so, go to your access page. Select 'bandit' under the network tab and download your configuration file.
 
+## Steps
+
+1. [[Registration]]
+
+ENTRY HOST
+2. [[Enumeration]]
+3. [[Exploitation]]
+4. [[ENTRY HOST/Privilege Escalation]]
+
+WINDOWS MACHINE
+5. [[Connecting to Windows Machine]]
+6. [[WINDOWS MACHINE/Privilege Escalation]]
+
+
+
 **Next step:** [[Registration]]
 
 
