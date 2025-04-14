@@ -43,23 +43,14 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/media/sf_obsidian/Holo/docs",
+  "exportPath": "/home/emi/Documents/obsidian/Bandit/docs",
   "filesToExport": [
     [
-      "COMMAND AND CONTROL",
-      "COMPETITION",
-      "DOCKER BREAKOUT",
-      "FLAG SUBMISSION",
-      "INITIAL RECON",
-      "INTRO",
-      "NET BASICS",
-      "PIVOTING",
-      "POST EXPLOITATION",
-      "PRIVILEGE ESCALATION",
-      "SITUATIONAL AWARANESS",
-      "WEB APP EXPLOITATION",
-      "Images/Diagram.svg",
-      "index.md"
+      "ENTRY HOST",
+      "images",
+      "WINDOWS MACHINE",
+      "index.md",
+      "Registration.md"
     ]
   ]
 }
