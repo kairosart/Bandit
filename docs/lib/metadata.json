@@ -1,6 +1,6 @@
 {
   "vaultName": "Reset",
-  "lastExport": 1744651305054,
+  "lastExport": 1744826750254,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -9,44 +9,6 @@
     "ENTRY HOST/Enumeration.md",
     "ENTRY HOST/Exploitation.md",
     "ENTRY HOST/Privilege Escalation.md",
-    "images/Connecting to Windows Machine-20250412204127536.webp",
-    "images/Connecting to Windows Machine-20250412204327533.webp",
-    "images/Connecting to Windows Machine-20250413193019825.webp",
-    "images/Diagram.svg.xml",
-    "images/Enumeration-20250324203215898.webp",
-    "images/Enumeration-20250324210218682.webp",
-    "images/Enumeration-20250324210522027.webp",
-    "images/Enumeration-20250325203952383.webp",
-    "images/Enumeration-20250325205126744.webp",
-    "images/Exploitation-20250401202714479.webp",
-    "images/Exploitation-20250401202952664.webp",
-    "images/Exploitation-20250405113050702.webp",
-    "images/Exploitation-20250405115302330.webp",
-    "images/Exploitation-20250405115536051.webp",
-    "images/Exploitation-20250407200959395.webp",
-    "images/Exploitation-20250407210325144.webp",
-    "images/Exploitation-20250408195208723.webp",
-    "images/Exploitation-20250408195432891.webp",
-    "images/Exploitation-20250408200051691.webp",
-    "images/Exploitation-20250408200503817.webp",
-    "images/Exploitation-20250408204051992.webp",
-    "images/Exploitation-20250409193859053.webp",
-    "images/Exploitation-20250409194650411.webp",
-    "images/Exploitation-20250409195535327.webp",
-    "images/Exploitation-20250409200109475.webp",
-    "images/Exploitation-20250410210118564.webp",
-    "images/Exploitation-20250410213237338.webp",
-    "images/Exploitation-20250410213700215.webp",
-    "images/Exploitation-20250410214234870.webp",
-    "images/Exploitation-20250410214726331.webp",
-    "images/index-20250324200024181.webp",
-    "images/Privilege Escalation-20250411201844847.webp",
-    "images/Privilege Escalation-20250413193701775.webp",
-    "images/Privilege Escalation-20250413193958931.webp",
-    "images/Privilege Escalation-20250413195055851.webp",
-    "images/Privilege Escalation-20250413195209015.webp",
-    "images/Privilege Escalation-20250413195827661.webp",
-    "images/Privilege Escalation-20250413205504091.webp",
     "WINDOWS MACHINE/Connecting to Windows Machine.md",
     "WINDOWS MACHINE/Privilege Escalation.md",
     "index.md",
@@ -84,355 +46,127 @@
   ],
   "fileInfo": {
     "ENTRY HOST/Enumeration.md": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 849,
       "exportedPath": "ENTRY HOST/Enumeration.html",
       "dependencies": []
     },
     "ENTRY HOST/Exploitation.md": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 7197,
       "exportedPath": "ENTRY HOST/Exploitation.html",
       "dependencies": []
     },
     "ENTRY HOST/Privilege Escalation.md": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 571,
       "exportedPath": "ENTRY HOST/Privilege Escalation.html",
       "dependencies": []
     },
-    "images/Connecting to Windows Machine-20250412204127536.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 15996,
-      "exportedPath": "images/Connecting to Windows Machine-20250412204127536.webp",
-      "dependencies": []
-    },
-    "images/Connecting to Windows Machine-20250412204327533.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 19252,
-      "exportedPath": "images/Connecting to Windows Machine-20250412204327533.webp",
-      "dependencies": []
-    },
-    "images/Connecting to Windows Machine-20250413193019825.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 1862,
-      "exportedPath": "images/Connecting to Windows Machine-20250413193019825.webp",
-      "dependencies": []
-    },
-    "images/Diagram.svg.xml": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 2038,
-      "exportedPath": "images/Diagram.svg.xml",
-      "dependencies": []
-    },
-    "images/Enumeration-20250324203215898.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 16476,
-      "exportedPath": "images/Enumeration-20250324203215898.webp",
-      "dependencies": []
-    },
-    "images/Enumeration-20250324210218682.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 35408,
-      "exportedPath": "images/Enumeration-20250324210218682.webp",
-      "dependencies": []
-    },
-    "images/Enumeration-20250324210522027.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 42282,
-      "exportedPath": "images/Enumeration-20250324210522027.webp",
-      "dependencies": []
-    },
-    "images/Enumeration-20250325203952383.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 16722,
-      "exportedPath": "images/Enumeration-20250325203952383.webp",
-      "dependencies": []
-    },
-    "images/Enumeration-20250325205126744.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 2188,
-      "exportedPath": "images/Enumeration-20250325205126744.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250401202714479.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 33418,
-      "exportedPath": "images/Exploitation-20250401202714479.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250401202952664.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 21232,
-      "exportedPath": "images/Exploitation-20250401202952664.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250405113050702.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 29696,
-      "exportedPath": "images/Exploitation-20250405113050702.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250405115302330.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 7712,
-      "exportedPath": "images/Exploitation-20250405115302330.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250405115536051.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 7882,
-      "exportedPath": "images/Exploitation-20250405115536051.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250407200959395.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 9528,
-      "exportedPath": "images/Exploitation-20250407200959395.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250407210325144.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 43326,
-      "exportedPath": "images/Exploitation-20250407210325144.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250408195208723.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 1694,
-      "exportedPath": "images/Exploitation-20250408195208723.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250408195432891.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 11554,
-      "exportedPath": "images/Exploitation-20250408195432891.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250408200051691.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 3234,
-      "exportedPath": "images/Exploitation-20250408200051691.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250408200503817.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 3392,
-      "exportedPath": "images/Exploitation-20250408200503817.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250408204051992.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 3452,
-      "exportedPath": "images/Exploitation-20250408204051992.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250409193859053.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 50476,
-      "exportedPath": "images/Exploitation-20250409193859053.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250409194650411.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 4432,
-      "exportedPath": "images/Exploitation-20250409194650411.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250409195535327.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 52242,
-      "exportedPath": "images/Exploitation-20250409195535327.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250409200109475.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 15704,
-      "exportedPath": "images/Exploitation-20250409200109475.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250410210118564.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 10892,
-      "exportedPath": "images/Exploitation-20250410210118564.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250410213237338.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 10148,
-      "exportedPath": "images/Exploitation-20250410213237338.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250410213700215.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 50656,
-      "exportedPath": "images/Exploitation-20250410213700215.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250410214234870.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 8100,
-      "exportedPath": "images/Exploitation-20250410214234870.webp",
-      "dependencies": []
-    },
-    "images/Exploitation-20250410214726331.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 5712,
-      "exportedPath": "images/Exploitation-20250410214726331.webp",
-      "dependencies": []
-    },
-    "images/index-20250324200024181.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 10612,
-      "exportedPath": "images/index-20250324200024181.webp",
-      "dependencies": []
-    },
-    "images/Privilege Escalation-20250411201844847.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 6818,
-      "exportedPath": "images/Privilege Escalation-20250411201844847.webp",
-      "dependencies": []
-    },
-    "images/Privilege Escalation-20250413193701775.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 42180,
-      "exportedPath": "images/Privilege Escalation-20250413193701775.webp",
-      "dependencies": []
-    },
-    "images/Privilege Escalation-20250413193958931.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 33456,
-      "exportedPath": "images/Privilege Escalation-20250413193958931.webp",
-      "dependencies": []
-    },
-    "images/Privilege Escalation-20250413195055851.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 29574,
-      "exportedPath": "images/Privilege Escalation-20250413195055851.webp",
-      "dependencies": []
-    },
-    "images/Privilege Escalation-20250413195209015.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 23726,
-      "exportedPath": "images/Privilege Escalation-20250413195209015.webp",
-      "dependencies": []
-    },
-    "images/Privilege Escalation-20250413195827661.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 127544,
-      "exportedPath": "images/Privilege Escalation-20250413195827661.webp",
-      "dependencies": []
-    },
-    "images/Privilege Escalation-20250413205504091.webp": {
-      "modifiedTime": 1744651305054,
-      "sourceSize": 13876,
-      "exportedPath": "images/Privilege Escalation-20250413205504091.webp",
-      "dependencies": []
-    },
     "WINDOWS MACHINE/Connecting to Windows Machine.md": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 3364,
       "exportedPath": "WINDOWS MACHINE/Connecting to Windows Machine.html",
       "dependencies": []
     },
     "WINDOWS MACHINE/Privilege Escalation.md": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 2102,
       "exportedPath": "WINDOWS MACHINE/Privilege Escalation.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 1094,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "Registration.md": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 898,
       "exportedPath": "Registration.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1744651305054,
+      "modifiedTime": 1744826750254,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []

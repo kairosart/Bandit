@@ -252,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Registration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Registration"
             }
           },
           {
@@ -302,8 +302,54 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "ed36c1031bd1eafd",
+  "floating": {
+    "id": "464d8993a253ede3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9b8602541f9aee88",
+        "type": "window",
+        "children": [
+          {
+            "id": "8da328daaca3cd33",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb0273ffe568c907",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Registration.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Registration"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 540,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "eb0273ffe568c907",
   "lastOpenFiles": [
+    "index.md",
+    "WINDOWS MACHINE/Privilege Escalation.md",
+    "WINDOWS MACHINE/Connecting to Windows Machine.md",
+    "ENTRY HOST/Privilege Escalation.md",
+    "ENTRY HOST/Exploitation.md",
+    "ENTRY HOST/Enumeration.md",
     "docs/Registration.html",
     "docs/index.html",
     "docs/WINDOWS MACHINE/Privilege Escalation.html",
@@ -324,14 +370,7 @@
     "docs/ENTRY HOST/Privilege Escalation.html",
     "docs/ENTRY HOST/Exploitation.html",
     "docs/ENTRY HOST/Enumeration.html",
-    "docs/ENTRY HOST",
     "Registration.md",
-    "index.md",
-    "WINDOWS MACHINE/Privilege Escalation.md",
-    "WINDOWS MACHINE/Connecting to Windows Machine.md",
-    "ENTRY HOST/Privilege Escalation.md",
-    "ENTRY HOST/Exploitation.md",
-    "ENTRY HOST/Enumeration.md",
     "Untitled.md",
     "Welcome.md",
     "Bandit/README.md",
